@@ -17,7 +17,7 @@ window.CONFIG = {
      1) LOJA
      ------------------------------------------------------------------------ */
   loja: {
-    nome: "Delivery do Frengo",
+    nome: "Delivery do Frango",
     // Frase curta usada no rodapé e no topo do cardápio
     slogan: "Frango assado de verdade, só aos fins de semana.",
   },
