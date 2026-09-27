@@ -1,6 +1,6 @@
 {
-  "name": "Delivery do Frengo",
-  "short_name": "Frengo",
+  "name": "Delivery do Frango",
+  "short_name": "Frango",
   "description": "Frango assado aos sábados e domingos. Peça pelo WhatsApp.",
   "start_url": "./",
   "display": "standalone",
