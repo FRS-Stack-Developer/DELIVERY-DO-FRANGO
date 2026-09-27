@@ -167,7 +167,7 @@
     return escapar(partes.join(" ")) + " <span>" + escapar(ultima) + "</span>";
   }
   $$("[data-brand]").forEach(function (el) { el.innerHTML = nomeComDestaque(nomeLoja); });
-  document.title = document.title.replace("Delivery do Frengo", nomeLoja);
+  document.title = document.title.replace("Delivery do Frango", nomeLoja);
 
   var mensagemPadrao = CONTATO.mensagemWhatsapp || "";
   $$('[data-link="whatsapp"]').forEach(function (a) {
