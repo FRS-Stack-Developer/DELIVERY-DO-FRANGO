@@ -1,4 +1,4 @@
-# Delivery do Frengo
+# Delivery do Frango
 
 Página de divulgação (landing page) de uma loja de frango assado que funciona aos **sábados e domingos**.
 Feita em HTML, CSS e JavaScript puros, sem banco de dados e sem servidor, pronta para o **GitHub Pages**.
@@ -39,7 +39,7 @@ Mantenha as aspas `"..."` e as vírgulas no fim das linhas. Salve e atualize a p
 
 | O que trocar | Onde, no `config.js` | Exemplo |
 |---|---|---|
-| Nome da loja | `loja.nome` | `"Delivery do Frengo"` |
+| Nome da loja | `loja.nome` | `"Delivery do Frango"` |
 | WhatsApp | `contato.whatsapp` | `"5531987654321"` (55 + DDD + número, só números) |
 | Mensagem inicial do WhatsApp | `contato.mensagemWhatsapp` | `"Olá! Vim pelo site..."` |
 | Instagram | `contato.instagram` | `"frangodofulano"` (sem @ e sem link) |
@@ -104,7 +104,7 @@ Dê dois cliques no `index.html`. Ele abre no navegador e funciona normalmente (
 ## Publicar no GitHub Pages (grátis)
 
 1. Crie uma conta em [github.com](https://github.com) (se ainda não tiver).
-2. Clique em **New repository**, dê um nome (ex.: `delivery-do-frengo`), deixe **Public** e clique em **Create repository**.
+2. Clique em **New repository**, dê um nome (ex.: `delivery-do-frango`), deixe **Public** e clique em **Create repository**.
 3. Na tela do repositório, clique em **uploading an existing file**.
 4. Arraste **todo o conteúdo desta pasta** (o `index.html` e as pastas `css`, `js`, `images`, `fonts`, além dos demais arquivos).
    O `index.html` precisa ficar na raiz, não dentro de outra pasta.
@@ -112,12 +112,12 @@ Dê dois cliques no `index.html`. Ele abre no navegador e funciona normalmente (
 6. Vá em **Settings > Pages**. Em **Build and deployment**, escolha **Source: Deploy from a branch**,
    depois **Branch: main** e pasta **/ (root)**. Clique em **Save**.
 7. Aguarde 1 ou 2 minutos. O endereço aparece no topo dessa mesma tela, no formato:
-   `https://SEU-USUARIO.github.io/delivery-do-frengo/`
+   `https://SEU-USUARIO.github.io/delivery-do-frango/`
 
 Para atualizar depois: edite o arquivo no próprio GitHub (lápis) ou envie de novo pelo **Add file > Upload files**.
 As mudanças entram no ar em cerca de 1 minuto.
 
-Opcional: em **Settings > Pages > Custom domain** dá para usar um domínio próprio (ex.: `www.deliverydofrengo.com.br`).
+Opcional: em **Settings > Pages > Custom domain** dá para usar um domínio próprio (ex.: `www.deliverydofrango.com.br`).
 
 ---
 
