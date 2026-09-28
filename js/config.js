@@ -28,7 +28,7 @@ window.CONFIG = {
   contato: {
     // WhatsApp: 55 (Brasil) + DDD + número. SÓ NÚMEROS, sem espaço ou traço.
     // Exemplo: (31) 98765-4321  vira  "5531987654321"
-    whatsapp: "5531991695214",
+    whatsapp: "5531986092206",
 
     // Mensagem que já aparece escrita quando o cliente clica nos botões
     mensagemWhatsapp: "Olá! Vim pelo site e gostaria de fazer um pedido.",
